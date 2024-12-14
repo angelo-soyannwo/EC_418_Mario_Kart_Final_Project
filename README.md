@@ -36,3 +36,16 @@ TRACK_NAMES = zengarden, lighthouse, hacienda, snowtuxpeak, cornfield_crossing, 
 
 The above code should cause the emulator to start. It will print 0, 1, or 2 in the terminal when running (denoting a sharp left, straight path, or sharp right respectively).
 
+## training models
+
+$python3 train.py -n [num_epochs]
+
+The above function trains the planner module.
+
+In the turn_classifier folder the following two lines of code to train road_classifier and the gray_scale_road_classifier neural networks respectively.
+
+$python3 train.py -n [num_epochs]
+
+$python3 train_gray_scale.py -n [num_epochs]
+
+-c flag can be used to continue training

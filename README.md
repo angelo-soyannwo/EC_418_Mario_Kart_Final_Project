@@ -36,7 +36,7 @@ TRACK_NAMES = zengarden, lighthouse, hacienda, snowtuxpeak, cornfield_crossing, 
 
 The above code should cause the emulator to start. It will print 0, 1, or 2 in the terminal when running (denoting a sharp left, straight path, or sharp right respectively).
 
-## training models
+## Training models
 
 $python3 train.py -n [num_epochs]
 

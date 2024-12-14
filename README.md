@@ -48,4 +48,4 @@ $python3 train.py -n [num_epochs]
 
 $python3 train_gray_scale.py -n [num_epochs]
 
--c flag can be used to continue training
+The -c flag can be used to continue training the models for all of the above commands

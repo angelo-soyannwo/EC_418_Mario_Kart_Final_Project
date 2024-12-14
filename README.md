@@ -42,7 +42,7 @@ $python3 train.py -n [num_epochs]
 
 The above function trains the planner module.
 
-In the turn_classifier folder the following two lines of code to train road_classifier and the gray_scale_road_classifier neural networks respectively.
+In the turn_classifier folder, the following two commands can be used in the terminal to train the road_classifier and the gray_scale_road_classifier neural networks respectively.
 
 $python3 train.py -n [num_epochs]
 

@@ -3,7 +3,7 @@
 My EC 418 Reinforcement Learning final project. A neural network based agent that is capable of playing mario kart on the PySuperTuxKArt emulator.
 
 <p align="center">
- <a>Example Video<ref="https://drive.google.com/file/d/1UcUQiL_LJX4ywOeCUIq87zp5nzuJVGvW/view?usp=drive_link"/a>
+ <a href="https://drive.google.com/file/d/1UcUQiL_LJX4ywOeCUIq87zp5nzuJVGvW/view?usp=drive_link" target="_blank">Example Video</a>
 </p>
 
 <p align="center">
